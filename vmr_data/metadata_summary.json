@@ -1,0 +1,9 @@
+{
+  "total_proteins": 7269,
+  "unique_viruses": 100,
+  "unique_families": 9,
+  "unique_genera": 27,
+  "processing_date": "2026-04-25T23:58:19.924143",
+  "vmr_file": "vmr_data/VMR_MSL41.v1.20260320.xlsx",
+  "failed_accessions": 0
+}
